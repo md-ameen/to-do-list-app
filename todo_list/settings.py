@@ -26,7 +26,7 @@ SECRET_KEY = '4g_i$ibmca%c$)c622goa(9no=%3sgh*gbp*gw-d0+4$!e11f5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'to-do-items.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'to-do-items1.herokuapp.com']
 
 
 # Application definition
